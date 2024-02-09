@@ -99,11 +99,11 @@ function taxacao() {
 console.log(`Você quer converter R$ ${valorReal}, para o dólar americano \n`);
 console.log(`A cotação do dólar hoje é de US$ ${valorDolar}\n`);
 console.log(`O valor convertido fica em US$ ${valorConvertidio.toFixed(2)}`);
-console.log(`Com uma taxa de ${taxa.toFixed(2)}`);
+console.log(`Com uma taxa de ${taxa.toFixed(2)}`)
 console.log(`Valor final em US$ ${valorFinal.toFixed(2)}`);
 
 
- 
+ nem manjo
  
 
 
