@@ -69,7 +69,7 @@ linguagemDeProgramação = ['JavaScript', 'C', 'C++', 'Kotlin', 'GoLang']
 
 
 
- 
+ nem manjo
  
 
 
