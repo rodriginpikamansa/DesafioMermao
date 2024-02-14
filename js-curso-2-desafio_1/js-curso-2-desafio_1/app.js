@@ -63,6 +63,7 @@ linguagemDeProgramação = ['JavaScript', 'C', 'C++', 'Kotlin', 'GoLang']
 
  nomes = ['mateus', 'Lucas', 'Gabriel'] 
  console.log (nomes[2])
+ console.log (nomes[3])
 
 
 
